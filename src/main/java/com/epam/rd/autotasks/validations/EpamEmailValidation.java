@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.validations;
+package com.epam.training.student_veronika_tarasova.validations_epam_email.src.main.java.com.epam.rd.autotasks.validations;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -14,8 +14,3 @@ public class EpamEmailValidation {
         return matcher.matches();
     }
 }
-
-
-
-
-
